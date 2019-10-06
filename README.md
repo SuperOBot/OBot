@@ -1,2 +1,2 @@
 # OBot
-一个普通的CQHTTP  Bot PHP框架/SDK（bushi
+只是一个练手的项目，代码结构、语法等都超级不规范，甚至很傻，还请各位 dalao 们多包涵（（
